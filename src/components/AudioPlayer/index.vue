@@ -26,6 +26,9 @@ export default {
     },
   },
 };
+//vue.use
+//vue.ob
+//vue.mixin
 </script>
 <template>
   <div></div>

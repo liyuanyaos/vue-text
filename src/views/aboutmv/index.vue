@@ -300,7 +300,11 @@
       data-v-e4fc58ca=""
       class="box bg-white w-[100vw] flex items-center fixed bottom-0 left-0"
     >
-      <div data-v-5c239f42="" class="flex-1 flex flex-col items-center">
+      <div
+        data-v-5c239f42=""
+        class="flex-1 flex flex-col items-center"
+        @click="$router.push('/home')"
+      >
         <svg
           data-v-5c239f42=""
           xmlns="http://www.w3.org/2000/svg"
@@ -340,7 +344,11 @@
         </svg>
         <p data-v-5c239f42="" class="text-[red]">排行榜</p>
       </div>
-      <div data-v-5c239f42="" class="flex-1 flex flex-col items-center">
+      <div
+        data-v-5c239f42=""
+        class="flex-1 flex flex-col items-center"
+        @click="$router.push('/mylogin')"
+      >
         <svg
           data-v-5c239f42=""
           xmlns="http://www.w3.org/2000/svg"

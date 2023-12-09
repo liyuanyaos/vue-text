@@ -43,7 +43,4 @@ export default {
   bottom: 0;
   left: 0;
 }
-.red-image[data-v-8298fe8a] {
-  filter: url(data:image/svg+xml;utf8,<svg xmlns=%27http://www.w3.org/2000/svg%27><filter id=%27colorize%27><feColorMatrix type=%27matrix%27 values=%271 0 0 0 0.698 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0%27/></filter></svg>#colorize);
-}
 </style>
